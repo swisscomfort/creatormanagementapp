@@ -11,7 +11,7 @@
     "runtimeVersion": {
       "policy": "sdkVersion"
     },
-    "platforms": ["ios", "android"],
+    "platforms": ["ios", "android", "web"],
     "newArchEnabled": true,
     "splash": {
       "image": "./assets/splash-icon.png",
